@@ -63,6 +63,7 @@
     margin-bottom: 2%;
 }
 .boxp {
+    font-family: Arial Narrow;
     width:85%;
     font-size:20px;
     margin-top:5%;
@@ -121,4 +122,15 @@
 }
 .slider-buttons button:hover {
     background-color: rgba(0, 0, 0, 0.8);
+}
+.slides > picture {
+    flex: 0 0 100%; /* Каждый слайд занимает 100% ширины слайдера */
+    display: flex; /* Устанавливаем flex для вложенных элементов (source + img) */
+    justify-content: center; /* Центрируем содержимое внутри picture */
+    align-items: center; /* Центрируем по вертикали */
+}
+
+.slides > picture img {
+    width: 100%; /* Изображение занимает всю ширину контейнера */
+    height: auto; /* Сохраняем пропорции изображения */
 }
