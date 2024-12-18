@@ -207,7 +207,7 @@
 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 375px) {
     .headertext {
         font-size:30px;
         color:white;
@@ -235,7 +235,7 @@
         width: 90%;
         height: 45%;
     }
-    
+
     .boxp {
         width:95%;
         font-size:18px;
