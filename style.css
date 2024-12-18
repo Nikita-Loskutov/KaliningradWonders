@@ -3,6 +3,10 @@
     padding:0px;
 }
 
+.body {
+    background-color:white;
+}
+
 .header {
     display:flex;
     height:100px;
