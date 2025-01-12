@@ -1124,3 +1124,510 @@ footer p {
         top: 1520%; /* Центрирование вертикально */
     }
 }
+
+
+/* New Adopation */
+@media (max-width: 360px) {
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:2%;
+        margin-bottom: 0%;
+        max-width: 95%;
+    }
+    .headerinfo p {
+        font-size: 20px;
+        font-weight: 500;
+        max-width: 95%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 90%;
+        height: 25%;
+        margin-top: 10%;
+    }
+    .header svg {
+        display:none
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:45%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 98%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 98%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 28px;
+    }
+    .boxp {
+        width: 93%;
+        font-size: 22px;
+    }
+    .num {
+        top: 155%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 700px;
+    }
+
+    #n2 {
+        top: 340%; /* Центрирование вертикально */
+        font-size: 600px;
+    }
+    #n3 {
+        top: 525%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n4 {
+        top: 715%; /* Центрирование вертикально */
+    }
+    #n5 {
+        top: 900%; /* Центрирование вертикально */
+        left:48%;
+    }
+    #n6 {
+        top: 1100%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n7 {
+        top: 1300%; /* Центрирование вертикально */
+    }
+    #n8 {
+        top: 1510%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n9 {
+        top: 1720%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n10 {
+        top: 1935%; /* Центрирование вертикально */
+        font-size:400px;
+        left:38%;
+    }
+}
+
+@media (max-width: 375px) {
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 20%;
+        margin-top: 10%;
+    }
+    .header svg {
+        display:none
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:45%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 98%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 98%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 28px;
+    }
+    .boxp {
+        width: 93%;
+        font-size: 22px;
+    }
+    .num {
+        top: 120%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 700px;
+    }
+
+    #n2 {
+        top: 260%; /* Центрирование вертикально */
+        font-size: 600px;
+    }
+    #n3 {
+        top: 410%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n4 {
+        top: 550%; /* Центрирование вертикально */
+    }
+    #n5 {
+        top: 690%; /* Центрирование вертикально */
+        left:49%;
+    }
+    #n6 {
+        top: 850%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n7 {
+        top: 1010%; /* Центрирование вертикально */
+    }
+    #n8 {
+        top: 1170%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n9 {
+        top: 1335%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n10 {
+        top: 1505%; /* Центрирование вертикально */
+        font-size:400px;
+        left:44%;
+    }
+}
+
+@media (max-width: 390px) {
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 20%;
+        margin-top: 10%;
+    }
+    .header svg {
+        display:none
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:45%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 98%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 98%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 28px;
+    }
+    .boxp {
+        width: 93%;
+        font-size: 22px;
+    }
+    .num {
+        top: 110%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 700px;
+    }
+
+    #n2 {
+        top: 252%; /* Центрирование вертикально */
+        font-size: 600px;
+    }
+    #n3 {
+        top: 385%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n4 {
+        top: 525%; /* Центрирование вертикально */
+        left: 48%;
+    }
+    #n5 {
+        top: 665%; /* Центрирование вертикально */
+        left:49%;
+    }
+    #n6 {
+        top: 810%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n7 {
+        top: 965%; /* Центрирование вертикально */
+        left:42%;
+    }
+    #n8 {
+        top: 1120%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n9 {
+        top: 1275%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n10 {
+        top: 1430%; /* Центрирование вертикально */
+        font-size:400px;
+        left:45%;
+    }
+}
+
+@media (max-width: 414px) {
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 18%;
+        margin-top: 10%;
+    }
+    .header svg {
+        display:none
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:45%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 98%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 98%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 28px;
+    }
+    .boxp {
+        width: 93%;
+        font-size: 22px;
+    }
+    .num {
+        top: 110%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 700px;
+    }
+
+    #n2 {
+        top: 240%; /* Центрирование вертикально */
+        font-size: 600px;
+    }
+    #n3 {
+        top: 365%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n4 {
+        top: 495%; /* Центрирование вертикально */
+        left: 48%;
+    }
+    #n5 {
+        top: 625%; /* Центрирование вертикально */
+        left:49%;
+    }
+    #n6 {
+        top: 765%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n7 {
+        top: 910%; /* Центрирование вертикально */
+        left:42%;
+    }
+    #n8 {
+        top: 1060%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n9 {
+        top: 1200%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n10 {
+        top: 1350%; /* Центрирование вертикально */
+        font-size:400px;
+        left:45%;
+    }
+}
+
+@media (max-width: 430px) {
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 18%;
+        margin-top: 10%;
+    }
+    .header svg {
+        display:none
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:40%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 98%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 98%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 28px;
+    }
+    .boxp {
+        width: 93%;
+        font-size: 22px;
+    }
+    .num {
+        top: 105%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 700px;
+    }
+
+    #n2 {
+        top: 225%; /* Центрирование вертикально */
+        font-size: 600px;
+    }
+    #n3 {
+        top: 345%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n4 {
+        top: 468%; /* Центрирование вертикально */
+        left: 48%;
+    }
+    #n5 {
+        top: 590%; /* Центрирование вертикально */
+        left:49%;
+    }
+    #n6 {
+        top: 718%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n7 {
+        top: 860%; /* Центрирование вертикально */
+        left:42%;
+    }
+    #n8 {
+        top: 995%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n9 {
+        top: 1130%; /* Центрирование вертикально */
+        font-size:700px;
+    }
+    #n10 {
+        top: 1270%; /* Центрирование вертикально */
+        font-size:400px;
+        left:45%;
+    }
+
+    .boxcart {
+        width: 85%;
+        max-width: 800px;
+        height: 320px;
+        padding-bottom:45px;
+    }
+
+    .history {
+        margin: 0 auto;
+        width: 85%;
+    }
+
+    .button {
+        margin-left: 12%;
+
+    }
+
+    .footermain svg {
+        display:none;
+    }
+
+    footer svg {
+        display:none;
+    }
+
+    footer p {
+        font-size:15px;
+    }
+
+    .icon {
+        width:40px;
+        height:40px;
+    }
+}
