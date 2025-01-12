@@ -1,6 +1,7 @@
+
 const singleMap = {
     id: "bigmap",
-    src: "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1ab8ff9d301fb063290d0dc8106b295a4c484d9ecc4c5e11f0e3de3a71e84127&amp;width=800&amp;height=400&amp;lang=ru_RU&amp;scroll=true",
+    src: "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1ab8ff9d301fb063290d0dc8106b295a4c484d9ecc4c5e11f0e3de3a71e84127&amp;width=90%&amp;height=100%&amp;lang=ru_RU&amp;scroll=true",
     image: "image/bigmap.jpg"
 };
 
@@ -23,7 +24,7 @@ function loadMap(map, container) {
         const iframe = container.querySelector('iframe');
         if (iframe) {
             iframe.style.width = '100%';
-            iframe.style.height = '100%';
+            iframe.style.height = '50%';
         }
     };
 
@@ -36,7 +37,13 @@ function createPlaceholder(map, container, useWebP) {
     const imageExtension = useWebP ? '.webp' : '.jpg';
     placeholder.src = map.image.replace(/\.jpg|\.webp$/, imageExtension);
     placeholder.alt = "Карта";
-    placeholder.style = "width: 100%; height: 100%; cursor: pointer;";
+    placeholder.style.width = "90%";
+    placeholder.style.height = "100%";
+    placeholder.style.cursor = "pointer";
+    placeholder.style.borderRadius = "90px";
+    placeholder.style.margin = "0 auto";
+    placeholder.style.marginTop = "5%";
+
 
     placeholder.addEventListener('click', () => {
         console.log("Клик по карте:", map.id);
