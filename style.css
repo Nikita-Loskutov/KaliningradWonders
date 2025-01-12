@@ -638,163 +638,6 @@ footer p {
     }
 }
 
-@media (max-width: 768px) {
-    .box1, .box4{
-        display:none;
-    }
-    .header {
-        height:30%;
-        width: 100%;
-    }
-    .headerinfo h1 {
-        font-size: 30px;
-        font-weight: 600;
-        margin-top:5%;
-        margin-bottom: 3%;
-        max-width: 95%;
-    }
-    .headerinfo p {
-        font-size: 28px;
-        font-weight: 500;
-        max-width: 95%;
-    }
-    .headerinfo {
-        justify-content: start;
-        width: 65%;
-        height: 25%;
-        margin-top: 14%;
-    }
-    .header svg {
-        margin-top:0%;
-    }
-    .headerbutton {
-        font-size: 28px;
-        width: 18%;
-        height: 10%;
-        margin-top: 45%;
-        z-index: 10;
-    }
-    .block {
-        justify-content:center;
-        margin-bottom:10%;
-    }
-    .box2 {
-        margin:o auto;
-        width: 80%;
-        margin-left: 0%;
-    }
-    .box3 {
-        width: 80%;
-        margin-left: 0%;
-    }
-    .boxh {
-        width: 100%;
-        margin-bottom: 2%;
-        font-size: 35px;
-    }
-    .boxp {
-        width: 95%;
-        font-size: 25px;
-    }
-    .num {
-        top: 135%; /* Центрирование вертикально */
-        left: 52%; /* Центрирование горизонтально */
-        font-size: 900px;
-        font-weight: 400;
-    }
-
-    #n2 {
-        top: 255%; /* Центрирование вертикально */
-        font-size: 800px;
-    }
-    #n3 {
-        top: 375%; /* Центрирование вертикально */
-    }
-    #n4 {
-        top: 495%; /* Центрирование вертикально */
-        left:50%;
-        font-size: 800px;
-    }
-    #n5 {
-        top: 615%; /* Центрирование вертикально */
-        left:51%;
-    }
-    #n6 {
-        top: 740%; /* Центрирование вертикально */
-        left:50%;
-    }
-    #n7 {
-        top: 875%; /* Центрирование вертикально */
-        left:48%;
-    }
-    #n8 {
-        top: 1013%; /* Центрирование вертикально */
-        left:50%;
-    }
-    #n9 {
-        top: 1145%; /* Центрирование вертикально */
-        left:50%;
-    }
-    #n10 {
-        top: 1280%; /* Центрирование вертикально */
-        left:50%;
-    }
-    .boxcart {
-        display:flex;
-        border-radius:90px;
-        background:#3E4897;
-        width: 80%;
-        max-width: 800px;
-        height: 400px;
-        margin: 0 auto;
-        position: relative;
-    }
-    .boxcart iframe {
-        border-radius:90px;
-        width: 90% !important;
-        height: 100% !important;
-        margin-left:5%;
-        margin-right:5%;
-        padding-top:5%;
-        padding-bottom: 5%;
-    }
-
-    .footermain {
-        width: 100%;
-        height: 100%;
-    }
-    .history {
-        height: 75%;
-        width: 50%;
-    }
-    .history h1 {
-        margin-top: 5%;
-        font-size: 35px;
-        font-weight: 600;
-    }
-    .history p {
-        margin-top: 2%;
-        font-size: 30px;
-        font-weight: 300;
-    }
-    .button {
-        margin-left: 15%;
-        margin-top: 2%;
-        border-radius:25px;
-        padding: 5px 10px;
-        font-size: 34px;
-        font-weight: 600;
-    }
-    .phonenum img {
-        margin-top:10px;
-    }
-    .footermain svg {
-        margin-left: 2%;
-        margin-right: 5%;
-        width: 40%;
-    }
-}
-
 @media (max-width: 425px) {
     .headerinfo h1 {
         font-size: 26px;
@@ -1127,6 +970,7 @@ footer p {
 
 
 /* New Adopation */
+/* Mobile */
 @media (max-width: 360px) {
     .headerinfo h1 {
         font-size: 24px;
@@ -1629,5 +1473,496 @@ footer p {
     .icon {
         width:40px;
         height:40px;
+    }
+}
+
+/* Tab */
+
+@media (max-width: 768px) {
+    .box1, .box4{
+        display:none;
+    }
+    .header {
+        height:30%;
+        width: 100%;
+    }
+    .headerinfo h1 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-top:5%;
+        margin-bottom: 3%;
+        max-width: 95%;
+    }
+    .headerinfo p {
+        font-size: 28px;
+        font-weight: 500;
+        max-width: 95%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 65%;
+        height: 22%;
+        margin-top: 14%;
+    }
+    .header svg {
+        margin-top:0%;
+    }
+    .headerbutton {
+        font-size: 26px;
+        width: 18%;
+        height: 8%;
+        margin-top: 46%;
+        z-index: 10;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:10%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 80%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 80%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 35px;
+    }
+    .boxp {
+        width: 95%;
+        font-size: 25px;
+    }
+    .num {
+        top: 115%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 900px;
+        font-weight: 400;
+    }
+
+    #n2 {
+        top: 220%; /* Центрирование вертикально */
+        font-size: 800px;
+    }
+    #n3 {
+        top: 320%; /* Центрирование вертикально */
+    }
+    #n4 {
+        top: 425%; /* Центрирование вертикально */
+        left:50%;
+        font-size: 800px;
+    }
+    #n5 {
+        top: 530%; /* Центрирование вертикально */
+        left:51%;
+    }
+    #n6 {
+        top: 637%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n7 {
+        top: 755%; /* Центрирование вертикально */
+        left:48%;
+    }
+    #n8 {
+        top: 872%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n9 {
+        top: 985%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n10 {
+        top: 1102%; /* Центрирование вертикально */
+        left:50%;
+    }
+    .boxcart {
+        display:flex;
+        border-radius:90px;
+        background:#3E4897;
+        width: 80%;
+        max-width: 800px;
+        height: 400px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .boxcart iframe {
+        border-radius:90px;
+        width: 90% !important;
+        height: 100% !important;
+        margin-left:5%;
+        margin-right:5%;
+        padding-top:5%;
+        padding-bottom: 5%;
+    }
+
+    .footermain {
+        width: 100%;
+        height: 100%;
+    }
+    .history {
+        height: 75%;
+        width: 50%;
+    }
+    .history h1 {
+        margin-top: 5%;
+        font-size: 35px;
+        font-weight: 600;
+    }
+    .history p {
+        margin-top: 2%;
+        font-size: 30px;
+        font-weight: 300;
+    }
+    .button {
+        margin-left: 15%;
+        margin-top: 2%;
+        border-radius:25px;
+        padding: 5px 10px;
+        font-size: 34px;
+        font-weight: 600;
+    }
+    .phonenum img {
+        margin-top:10px;
+    }
+    .footermain svg {
+        margin-left: 2%;
+        margin-right: 5%;
+        width: 40%;
+    }
+}
+
+@media (max-width: 820px) {
+    .box1, .box4{
+        display:none;
+    }
+    .header {
+        height:30%;
+        width: 100%;
+    }
+    .headerinfo h1 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-top:5%;
+        margin-bottom: 3%;
+        max-width: 95%;
+    }
+    .headerinfo p {
+        font-size: 28px;
+        font-weight: 500;
+        max-width: 95%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 65%;
+        height: 20%;
+        margin-top: 15%;
+    }
+    .header svg {
+        margin-top:0%;
+    }
+    .headerbutton {
+        font-size: 26px;
+        width: 18%;
+        height: 8%;
+        margin-top: 46%;
+        z-index: 10;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:10%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 80%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 80%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 35px;
+    }
+    .boxp {
+        width: 95%;
+        font-size: 25px;
+    }
+    .num {
+        top: 100%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 900px;
+        font-weight: 400;
+    }
+
+    #n2 {
+        top: 186%; /* Центрирование вертикально */
+        font-size: 800px;
+    }
+    #n3 {
+        top: 272%; /* Центрирование вертикально */
+    }
+    #n4 {
+        top: 362%; /* Центрирование вертикально */
+        left:50%;
+        font-size: 800px;
+    }
+    #n5 {
+        top: 448%; /* Центрирование вертикально */
+        left:51%;
+    }
+    #n6 {
+        top: 541%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n7 {
+        top: 642%; /* Центрирование вертикально */
+        left:48%;
+    }
+    #n8 {
+        top: 740%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n9 {
+        top: 838%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n10 {
+        top: 938%; /* Центрирование вертикально */
+        left:50%;
+    }
+    .boxcart {
+        display:flex;
+        border-radius:90px;
+        background:#3E4897;
+        width: 80%;
+        max-width: 800px;
+        height: 400px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .boxcart iframe {
+        border-radius:90px;
+        width: 90% !important;
+        height: 100% !important;
+        margin-left:5%;
+        margin-right:5%;
+        padding-top:5%;
+        padding-bottom: 5%;
+    }
+
+    .footermain {
+        width: 100%;
+        height: 100%;
+    }
+    .history {
+        height: 75%;
+        width: 50%;
+    }
+    .history h1 {
+        margin-top: 5%;
+        font-size: 35px;
+        font-weight: 600;
+    }
+    .history p {
+        margin-top: 2%;
+        font-size: 30px;
+        font-weight: 300;
+    }
+    .button {
+        margin-left: 15%;
+        margin-top: 2%;
+        border-radius:25px;
+        padding: 5px 10px;
+        font-size: 34px;
+        font-weight: 600;
+    }
+    .phonenum img {
+        margin-top:10px;
+    }
+    .footermain svg {
+        margin-left: 2%;
+        margin-right: 5%;
+        width: 40%;
+    }
+}
+
+@media (max-width: 1280px) {
+    .header svg {
+        margin-top:1%;
+    }
+    .headerinfo {
+        margin-top: 12%;
+    }
+    .box2 {
+        width: 35%;
+        margin-left: 0%;
+    }
+    .box1 {
+        width: 36%;
+        margin-left: 19%;
+        margin-top: 4%;
+    }
+    .box4 {
+        width: 36%;
+        margin-left: 0%;
+        margin-top: 4%;
+    }
+    .box3 {
+        width: 35%;
+        margin-left: 19%;
+    }
+    .boxh {
+        font-size:32px;
+    }
+    .boxp {
+        width:94%;
+    }
+
+    .block {
+        margin-bottom:15%;
+
+    }
+    .num {
+        top: 135%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 900px;
+        font-weight: 400;
+    }
+
+    #n2 {
+        top: 270%; /* Центрирование вертикально */
+    }
+    #n3 {
+        top: 400%; /* Центрирование вертикально */
+    }
+    #n4 {
+        top: 525%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n5 {
+        top: 650%; /* Центрирование вертикально */
+        left:51%;
+    }
+    #n6 {
+        top: 785%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n7 {
+        top: 930%; /* Центрирование вертикально */
+        left:48%;
+    }
+    #n8 {
+        top: 1070%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n9 {
+        top: 1220%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n10 {
+        top: 1360%; /* Центрирование вертикально */
+        left:55%;
+        font-size:700px;
+    }
+    .button {
+        margin-left:20%;
+    }
+}
+
+@media (max-width: 1366px) {
+    .header svg {
+        margin-top:1%;
+    }
+    .headerinfo {
+        margin-top: 12%;
+        height:30%;
+    }
+    .headerbutton {
+        font-size: 36px;
+        width: 18%;
+        height: 14%;
+        margin-top: 38%;
+        z-index: 10;
+    }
+
+    .box2 {
+        width: 35%;
+        margin-left: 0%;
+    }
+    .box1 {
+        width: 36%;
+        margin-left: 19%;
+        margin-top: 4%;
+    }
+    .box4 {
+        width: 36%;
+        margin-left: 0%;
+        margin-top: 4%;
+    }
+    .box3 {
+        width: 35%;
+        margin-left: 19%;
+    }
+    .boxh {
+        font-size:32px;
+    }
+    .boxp {
+        width:94%;
+    }
+
+    .block {
+        margin-bottom:15%;
+
+    }
+    .num {
+        top: 115%; /* Центрирование вертикально */
+        left: 52%; /* Центрирование горизонтально */
+        font-size: 900px;
+        font-weight: 400;
+    }
+
+    #n2 {
+        top: 210%; /* Центрирование вертикально */
+    }
+    #n3 {
+        top: 310%; /* Центрирование вертикально */
+    }
+    #n4 {
+        top: 410%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n5 {
+        top: 510%; /* Центрирование вертикально */
+        left:51%;
+    }
+    #n6 {
+        top: 610%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n7 {
+        top: 715%; /* Центрирование вертикально */
+        left:48%;
+    }
+    #n8 {
+        top: 825%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n9 {
+        top: 935%; /* Центрирование вертикально */
+        left:50%;
+    }
+    #n10 {
+        top: 1050%; /* Центрирование вертикально */
+        left:55%;
+        font-size:700px;
+    }
+    .button {
+        margin-left:22%;
     }
 }
