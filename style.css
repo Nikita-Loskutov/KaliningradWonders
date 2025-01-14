@@ -43,27 +43,27 @@ body {
 }
 
 .headerinfo h1 {
-    font-family: 'Montserrat Alternates', sans-serif; /* Шрифт */
+    font-family: 'Montserrat Alternates', sans-serif;
     font-size: 40px;
     font-weight: 600;
-    color: #000; /* Цвет текста */
-    text-align: center; /* Центровка текста */
-    margin-bottom: 5%; /* Убираем отступы */
+    color: #000;
+    text-align: center;
+    margin-bottom: 5%;
     max-width:80%;
 }
 
 .headerinfo p {
-    font-family: 'Montserrat Alternates', sans-serif; /* Шрифт */
+    font-family: 'Montserrat Alternates', sans-serif;
     font-size: 32px;
     font-weight: 400;
-    color: #000; /* Цвет текста */
-    text-align: center; /* Центровка текста */
-    margin: 10px 0 0; /* Отступ сверху */
+    color: #000;
+    text-align: center;
+    margin: 10px 0 0;
     max-width:75%;
 }
 
 .headerbutton {
-    font-family: 'Montserrat Alternates', sans-serif; /* Шрифт */
+    font-family: 'Montserrat Alternates', sans-serif;
     font-size: 38px;
     font-weight: 600;
     color: #000;
@@ -126,9 +126,9 @@ body {
 .num {
     display: flex;
     position: absolute;
-    top: 150%; /* Центрирование вертикально */
-    left: 52%; /* Центрирование горизонтально */
-    transform: translate(-50%, -50%); /* Смещение для точного центрирования */
+    top: 150%;
+    left: 52%;
+    transform: translate(-50%, -50%);
     align-items: center;
     justify-content: center;
     font-family: 'Neonderthaw', sans-serif;
@@ -138,37 +138,37 @@ body {
 }
 
 #n2 {
-    top: 240%; /* Центрирование вертикально */
+    top: 240%;
 }
 #n3 {
-    top: 330%; /* Центрирование вертикально */
+    top: 330%;
 }
 #n4 {
-    top: 420%; /* Центрирование вертикально */
+    top: 420%;
     left:50%;
 }
 #n5 {
-    top: 515%; /* Центрирование вертикально */
+    top: 515%;
     left:51%;
 }
 #n6 {
-    top: 615%; /* Центрирование вертикально */
+    top: 615%;
     left:50%;
 }
 #n7 {
-    top: 715%; /* Центрирование вертикально */
+    top: 715%;
     left:48%;
 }
 #n8 {
-    top: 820%; /* Центрирование вертикально */
+    top: 820%;
     left:50%;
 }
 #n9 {
-    top: 920%; /* Центрирование вертикально */
+    top: 920%;
     left:50%;
 }
 #n10 {
-    top: 1025%; /* Центрирование вертикально */
+    top: 1025%;
     left:50%;
     font-size:800px;
 }
@@ -391,7 +391,7 @@ body {
 }
 
 .button:hover {
-    background-color: #c4c9f3; /* Более темный цвет при наведении */
+    background-color: #c4c9f3;
 }
 
 .phonenum {
@@ -476,44 +476,44 @@ footer p {
         margin-left: 19%;
     }
     .num {
-        top: 130%; /* Центрирование вертикально */
-        left: 52%; /* Центрирование горизонтально */
+        top: 130%;
+        left: 52%;
         font-size: 900px;
         font-weight: 400;
     }
 
     #n2 {
-        top: 230%; /* Центрирование вертикально */
+        top: 230%;
     }
     #n3 {
-        top: 325%; /* Центрирование вертикально */
+        top: 325%;
     }
     #n4 {
-        top: 425%; /* Центрирование вертикально */
+        top: 425%;
         left:50%;
     }
     #n5 {
-        top: 525%; /* Центрирование вертикально */
+        top: 525%;
         left:51%;
     }
     #n6 {
-        top: 635%; /* Центрирование вертикально */
+        top: 635%;
         left:50%;
     }
     #n7 {
-        top: 735%; /* Центрирование вертикально */
+        top: 735%;
         left:48%;
     }
     #n8 {
-        top: 855%; /* Центрирование вертикально */
+        top: 855%;
         left:50%;
     }
     #n9 {
-        top: 970%; /* Центрирование вертикально */
+        top: 970%;
         left:50%;
     }
     #n10 {
-        top: 1090%; /* Центрирование вертикально */
+        top: 1090%;
         left:55%;
         font-size:700px;
     }
@@ -754,44 +754,44 @@ footer p {
         width: 94%;
     }
     .num {
-        top: 120%; /* Центрирование вертикально */
-        left: 52%; /* Центрирование горизонтально */
+        top: 120%;
+        left: 52%;
         font-size: 900px;
         font-weight: 400;
     }
 
     #n2 {
-        top: 220%; /* Центрирование вертикально */
+        top: 220%;
     }
     #n3 {
-        top: 325%; /* Центрирование вертикально */
+        top: 325%;
     }
     #n4 {
-        top: 435%; /* Центрирование вертикально */
+        top: 435%;
         left:50%;
     }
     #n5 {
-        top: 535%; /* Центрирование вертикально */
+        top: 535%;
         left:51%;
     }
     #n6 {
-        top: 650%; /* Центрирование вертикально */
+        top: 650%;
         left:50%;
     }
     #n7 {
-        top: 760%; /* Центрирование вертикально */
+        top: 760%;
         left:48%;
     }
     #n8 {
-        top: 885%; /* Центрирование вертикально */
+        top: 885%;
         left:50%;
     }
     #n9 {
-        top: 1000%; /* Центрирование вертикально */
+        top: 1000%;
         left:50%;
     }
     #n10 {
-        top: 1140%; /* Центрирование вертикально */
+        top: 1140%;
         left:60%;
         font-size:600px;
     }
@@ -1040,7 +1040,7 @@ footer p {
         left: 52%;
         font-size: 900px;
         font-weight: 400;
-        display:none;
+        display:;
     }
 
     #n2 {
@@ -1317,38 +1317,38 @@ footer p {
         font-size: 22px;
     }
     .num {
-        top: 110%; /* Центрирование вертикально */
-        left: 52%; /* Центрирование горизонтально */
+        top: 110%;
+        left: 52%;
         font-size: 800px;
     }
 
     #n2 {
-        top: 235%; /* Центрирование вертикально */
+        top: 235%;
         font-size: 800px;
     }
     #n3 {
-        top: 355%; /* Центрирование вертикально */
+        top: 355%;
     }
     #n4 {
-        top: 480%; /* Центрирование вертикально */
+        top: 480%;
     }
     #n5 {
-        top: 605%; /* Центрирование вертикально */
+        top: 605%;
     }
     #n6 {
-        top: 735%; /* Центрирование вертикально */
+        top: 735%;
     }
     #n7 {
-        top: 875%; /* Центрирование вертикально */
+        top: 875%;
     }
     #n8 {
-        top: 1020%; /* Центрирование вертикально */
+        top: 1020%;
     }
     #n9 {
-        top: 1155%; /* Центрирование вертикально */
+        top: 1155%;
     }
     #n10 {
-        top: 1300%; /* Центрирование вертикально */
+        top: 1300%;
         font-size:500px;
         left:49%;
     }
@@ -1512,7 +1512,7 @@ footer p {
 }
 
 
-@media (max-width: 390px) {
+@media (max-width: 390px) and (max-height: 850px){
     .headerinfo h1 {
         font-size: 24px;
         font-weight: 600;
@@ -1528,7 +1528,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 20%;
+        height: 19%;
         margin-top: 10%;
     }
     .header svg {
@@ -1563,13 +1563,13 @@ footer p {
         font-size: 22px;
     }
     .num {
-        top: 110%;
+        top: 113%;
         left: 52%;
         font-size: 700px;
     }
 
     #n2 {
-        top: 252%;
+        top: 250%;
         font-size: 600px;
     }
     #n3 {
@@ -1577,37 +1577,50 @@ footer p {
         font-size:700px;
     }
     #n4 {
-        top: 525%;
-        left: 48%;
+        top: 522%;
+        left:47%;
     }
     #n5 {
-        top: 665%;
+        top: 660%;
         left:49%;
     }
     #n6 {
-        top: 810%;
+        top: 805%;
         font-size:700px;
+        left:52%;
     }
     #n7 {
-        top: 965%;
-        left:42%;
+        top: 960%;
     }
     #n8 {
-        top: 1120%;
+        top: 1113%;
         font-size:700px;
     }
     #n9 {
-        top: 1275%;
+        top: 1263%;
         font-size:700px;
     }
     #n10 {
-        top: 1430%;
+        top: 1420%;
         font-size:400px;
-        left:45%;
+        left:43%;
+    }
+    .button {
+        margin-left: 30%;
+        margin-top: 2%;
+        border-radius: 10px;
+        padding: 1px 1px;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+    .icon {
+        width:40px;
+        height:40px;
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 390px) and (max-height: 844px){
     .headerinfo h1 {
         font-size: 24px;
         font-weight: 600;
@@ -1623,7 +1636,111 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 20%;
+        height: 18%;
+        margin-top: 10%;
+    }
+    .num {
+        top: 115%;
+    }
+
+    #n2 {
+        top: 252%;
+    }
+    #n3 {
+        top: 390%;
+    }
+    #n4 {
+        top: 525%;
+    }
+    #n5 {
+        top: 665%;
+    }
+    #n6 {
+        top: 810%;
+    }
+    #n7 {
+        top: 970%;
+    }
+    #n8 {
+        top: 1120%;
+    }
+    #n9 {
+        top: 1275%;
+    }
+    #n10 {
+        top: 1435%;
+    }
+}
+
+@media (max-width: 390px) and (max-height: 690px){
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 22%;
+        margin-top: 10%;
+    }
+    .num {
+        top: 140%;
+    }
+
+    #n2 {
+        top: 310%;
+    }
+    #n3 {
+        top: 475%;
+    }
+    #n4 {
+        top: 645%;
+    }
+    #n5 {
+        top: 810%;
+    }
+    #n6 {
+        top: 990%;
+    }
+    #n7 {
+        top: 1180%;
+    }
+    #n8 {
+        top: 1370%;
+    }
+    #n9 {
+        top: 1553%;
+    }
+    #n10 {
+        top: 1750%;
+    }
+}
+
+@media (max-width: 375px) and (max-height: 845px){
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 17%;
         margin-top: 10%;
     }
     .header svg {
@@ -1658,50 +1775,345 @@ footer p {
         font-size: 22px;
     }
     .num {
-        top: 120%;
+        top: 113%;
         left: 52%;
         font-size: 700px;
     }
 
     #n2 {
-        top: 260%;
+        top: 250%;
         font-size: 600px;
     }
     #n3 {
-        top: 410%;
+        top: 390%;
         font-size:700px;
+    }
+    #n4 {
+        top: 528%;
+        left:45%;
+    }
+    #n5 {
+        top: 670%;
+        left:49%;
+    }
+    #n6 {
+        top: 815%;
+        font-size:700px;
+    }
+    #n7 {
+        top: 975%;
+    }
+    #n8 {
+        top: 1127%;
+        font-size:700px;
+    }
+    #n9 {
+        top: 1287%;
+        font-size:700px;
+    }
+    #n10 {
+        top: 1445%;
+        font-size:400px;
+        left:41%;
+    }
+    .button {
+        margin-left: 31%;
+        margin-top: 2%;
+        border-radius: 10px;
+        padding: 1px 1px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+    .icon {
+        width:40px;
+        height:40px;
+    }
+}
+
+@media (max-width: 375px) and (max-height: 812px){
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 18%;
+        margin-top: 10%;
+    }
+    .num {
+        top: 120%;
+    }
+
+    #n2 {
+        top: 260%;
+    }
+    #n3 {
+        top: 405%;
     }
     #n4 {
         top: 550%;
     }
     #n5 {
-        top: 690%;
-        left:49%;
+        top: 695%;
     }
     #n6 {
-        top: 850%;
-        font-size:700px;
+        top: 845%;
     }
     #n7 {
         top: 1010%;
     }
     #n8 {
-        top: 1170%;
-        font-size:700px;
+        top: 1172%;
     }
     #n9 {
         top: 1335%;
-        font-size:700px;
     }
     #n10 {
         top: 1505%;
-        font-size:400px;
-        left:44%;
+    }
+}
+
+@media (max-width: 375px) and (max-height: 667px){
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:3%;
+        margin-bottom: 0%;
+        max-width: 98%;
+    }
+    .headerinfo p {
+        font-size: 22px;
+        font-weight: 500;
+        max-width: 98%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 92%;
+        height: 22%;
+        margin-top: 10%;
+    }
+    .num {
+        top: 140%;
+    }
+
+    #n2 {
+        top: 320%;
+    }
+    #n3 {
+        top: 495%;
+    }
+    #n4 {
+        top: 670%;
+    }
+    #n5 {
+        top: 845%;
+    }
+    #n6 {
+        top: 1035%;
+    }
+    #n7 {
+        top: 1232%;
+    }
+    #n8 {
+        top: 1428%;
+    }
+    #n9 {
+        top: 1625%;
+    }
+    #n10 {
+        top: 1830%;
+    }
+}
+
+@media (max-width: 360px) and (max-height: 800px){
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:2%;
+        margin-bottom: 0%;
+        max-width: 95%;
+    }
+
+    .headerinfo p {
+        font-size: 20px;
+        font-weight: 500;
+        max-width: 95%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 90%;
+        height: 21%;
+        margin-top: 6%;
+    }
+    .header svg {
+        display:none
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+    .block {
+        justify-content:center;
+        margin-bottom:45%;
+    }
+    .box2 {
+        margin:o auto;
+        width: 98%;
+        margin-left: 0%;
+    }
+    .box3 {
+        width: 98%;
+        margin-left: 0%;
+    }
+    .boxh {
+        width: 100%;
+        margin-bottom: 2%;
+        font-size: 28px;
+    }
+    .boxp {
+        width: 93%;
+        font-size: 22px;
+    }
+    .num {
+        top: 123%;
+        left: 52%;
+        font-size: 700px;
+    }
+
+    #n2 {
+        top: 273%;
+        font-size: 600px;
+    }
+    #n3 {
+        top: 418%;
+        font-size:700px;
+    }
+    #n4 {
+        top: 573%;
+        font-size: 600px;
+    }
+    #n5 {
+        top: 720%;
+        left:48%;
+    }
+    #n6 {
+        top: 875%;
+        font-size:700px;
+    }
+    #n7 {
+        top: 1045%;
+    }
+    #n8 {
+        top: 1210%;
+        font-size:700px;
+    }
+    #n9 {
+        top: 1373%;
+        font-size:700px;
+    }
+    #n10 {
+        top: 1550%;
+        font-size:300px;
+        left:49%;
+    }
+    .button {
+        margin-left: 30%;
+        margin-top: 2%;
+        border-radius: 10px;
+        padding: 1px 1px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+    .history h1 {
+        font-size: 25px;
+    }
+    .history p {
+        font-size: 22px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    .icon {
+        width:35px;
+        height:35px;
+    }
+}
+
+@media (max-width: 360px) and (max-height: 720px){
+    .headerinfo h1 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-top:2%;
+        margin-bottom: 0%;
+        max-width: 95%;
+    }
+
+    .headerinfo p {
+        font-size: 20px;
+        font-weight: 500;
+        max-width: 95%;
+    }
+    .headerinfo {
+        justify-content: start;
+        width: 90%;
+        height: 23%;
+        margin-top: 6%;
+    }
+    .headerbutton {
+        display:none;
+    }
+    .skip{
+        height: 40px;
+    }
+
+    .num {
+        top: 140%;
+    }
+
+    #n2 {
+        top: 303%;
+    }
+    #n3 {
+        top: 465%;
+    }
+    #n4 {
+        top: 637%;
+    }
+    #n5 {
+        top: 800%;
+    }
+    #n6 {
+        top: 975%;
+    }
+    #n7 {
+        top: 1158%;
+    }
+    #n8 {
+        top: 1345%;
+    }
+    #n9 {
+        top: 1530%;
+    }
+    #n10 {
+        top: 1725%;
     }
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 360px) and (max-height: 640px){
     .headerinfo h1 {
         font-size: 24px;
         font-weight: 600;
@@ -1721,93 +2133,53 @@ footer p {
         height: 25%;
         margin-top: 10%;
     }
-    .header svg {
-        display:none
-    }
-    .headerbutton {
-        display:none;
-    }
-    .skip{
-        height: 40px;
-    }
-    .block {
-        justify-content:center;
-        margin-bottom:45%;
-    }
-    .box2 {
-        margin:o auto;
-        width: 98%;
-        margin-left: 0%;
-    }
-    .box3 {
-        width: 98%;
-        margin-left: 0%;
-    }
-    .boxh {
-        width: 100%;
-        margin-bottom: 2%;
-        font-size: 28px;
-    }
-    .boxp {
-        width: 93%;
-        font-size: 22px;
-    }
     .num {
         top: 155%;
-        left: 52%;
-        font-size: 700px;
     }
 
     #n2 {
         top: 340%;
-        font-size: 600px;
     }
     #n3 {
         top: 525%;
-        font-size:700px;
     }
     #n4 {
         top: 715%;
     }
     #n5 {
         top: 900%;
-        left:48%;
     }
     #n6 {
-        top: 1100%;
-        font-size:700px;
+        top: 1090%;
     }
     #n7 {
         top: 1300%;
     }
     #n8 {
-        top: 1510%;
-        font-size:700px;
+        top: 1515%;
     }
     #n9 {
         top: 1720%;
-        font-size:700px;
     }
     #n10 {
-        top: 1935%;
-        font-size:400px;
-        left:38%;
+        top: 1940%;
     }
+
 }
 
-@media (max-width: 320px) {
+@media (max-width: 320px) and (max-height: 690px) {
     .headerinfo h1 {
-        font-size: 16px;
-        margin-top:6%;
+        font-size: 22px;
+        margin-top:3%;
     }
     .headerinfo p {
-        font-size: 18px;
+        font-size: 19px;
     }
 
     .headerinfo {
         margin-top: 7%;
         width:95%;
-        height:25%;
+        height:23%;
     }
     .header svg {
         margin-top:0%;
@@ -1857,39 +2229,139 @@ footer p {
         transition: transform 0.3s ease;
     }
     .num {
-        top: 115%; /* Центрирование вертикально */
-        left: 52%; /* Центрирование горизонтально */
+        top: 135%;
+        left: 52%;
         font-size: 600px;
     }
 
     #n2 {
-        top: 255%; /* Центрирование вертикально */
-        font-size: 600px;
-        left:49%;
+        top: 330%;
+        font-size: 500px;
+        left:52%;
     }
     #n3 {
-        top: 405%; /* Центрирование вертикально */
+        top: 520%;
+        font-size: 500px;
     }
     #n4 {
-        top: 550%;
-         font-size:600px;/* Центрирование вертикально */
+        top: 705%;
+        font-size:600px;
     }
     #n5 {
-        top: 695%; /* Центрирование вертикально */
+        top: 895%;
     }
     #n6 {
-        top: 845%; /* Центрирование вертикально */
+        top: 1080%;
+        font-size:600px;
     }
     #n7 {
-        top: 1015%; /* Центрирование вертикально */
+        top: 1290%;
     }
     #n8 {
-        top: 1185%; /* Центрирование вертикально */
+        top: 1510%;
+        font-size:600px;
     }
     #n9 {
-        top: 1340%; /* Центрирование вертикально */
+        top: 1720%;
+        font-size:600px;
     }
     #n10 {
-        top: 1520%; /* Центрирование вертикально */
+        top: 1935%;
+        font-size:300px;
+        left:47%;
+    }
+}
+
+@media (max-width: 320px) and (max-height: 640px) {
+    .headerinfo h1 {
+        font-size: 20px;
+        margin-top:6%;
+    }
+    .headerinfo p {
+        font-size: 18px;
+    }
+
+    .headerinfo {
+        margin-top: 7%;
+        width:95%;
+        height:23%;
+    }
+    .num {
+        top: 155%;
+    }
+    #n2 {
+        top: 355%;
+    }
+    #n3 {
+        top: 560%;
+    }
+    #n4 {
+        top: 755%;
+    }
+    #n5 {
+        top: 950%;
+    }
+    #n6 {
+        top: 1165%;
+    }
+    #n7 {
+        top: 1400%;
+    }
+    #n8 {
+        top: 1625%;
+    }
+    #n9 {
+        top: 1850%;
+    }
+    #n10 {
+        top: 2080%;
+    }
+
+}
+
+
+@media (max-width: 320px) and (max-height: 570px) {
+    .headerinfo h1 {
+        font-size: 18px;
+        margin-top:6%;
+    }
+    .headerinfo p {
+        font-size: 18px;
+    }
+
+    .headerinfo {
+        margin-top: 7%;
+        width:95%;
+        height:25%;
+    }
+    .num {
+        top: 170%;
+    }
+    #n2 {
+        top: 400%;
+    }
+    #n3 {
+        top: 630%;
+    }
+    #n4 {
+        top: 850%;
+    }
+    #n5 {
+        top: 1075%;
+    }
+    #n6 {
+        top: 1310%;
+    }
+    #n7 {
+        top: 1565%;
+    }
+    #n8 {
+        top: 1830%;
+    }
+    #n9 {
+        top: 2080%;
+    }
+    #n10 {
+        top: 2350%;
     }
 }
