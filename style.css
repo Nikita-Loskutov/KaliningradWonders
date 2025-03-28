@@ -35,7 +35,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 50%;
-    height: 40%;
+    height: auto;
     background: #BEC5E5BD;
     border-radius: 30px;
     opacity: 0.74;
@@ -488,7 +488,7 @@ footer p {
     }
     .headerinfo {
         margin-top: 12%;
-        height:30%;
+
     }
     .headerbutton {
         font-size: 36px;
@@ -589,7 +589,7 @@ footer p {
     }
     .headerinfo {
         width: 60%;
-        height: 35%;;
+
         margin-top: 12%;
     }
     .headerbutton {
@@ -674,7 +674,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 65%;
-        height: 20%;
+
         margin-top: 15%;
     }
     .header svg {
@@ -789,7 +789,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 65%;
-        height: 22%;
+
         margin-top: 14%;
     }
     .header svg {
@@ -897,7 +897,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 18%;
+
         margin-top: 10%;
     }
     .header svg {
@@ -984,7 +984,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 90%;
-        height: 16%;
+
         margin-top: 22%;
     }
     .header svg {
@@ -1098,7 +1098,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 18%;
+
         margin-top: 10%;
     }
     .header svg {
@@ -1150,7 +1150,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 19%;
+
         margin-top: 10%;
     }
     .header svg {
@@ -1217,7 +1217,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 19%;
+
         margin-top: 10%;
     }
     .header svg {
@@ -1283,7 +1283,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 18%;
+
         margin-top: 10%;
     }
 }
@@ -1304,7 +1304,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 22%;
+
         margin-top: 10%;
     }
 }
@@ -1325,7 +1325,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 17%;
+
         margin-top: 10%;
     }
     .skip{
@@ -1384,7 +1384,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 18%;
+
         margin-top: 10%;
     }
 }
@@ -1405,7 +1405,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 92%;
-        height: 22%;
+
         margin-top: 10%;
     }
 }
@@ -1427,7 +1427,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 90%;
-        height: 21%;
+
         margin-top: 6%;
     }
     .skip{
@@ -1495,7 +1495,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 90%;
-        height: 23%;
+
         margin-top: 6%;
     }
     .headerbutton {
@@ -1524,7 +1524,7 @@ footer p {
     .headerinfo {
         justify-content: start;
         width: 90%;
-        height: 25%;
+
         margin-top: 10%;
     }
 
@@ -1542,7 +1542,7 @@ footer p {
     .headerinfo {
         margin-top: 7%;
         width:95%;
-        height:23%;
+
     }
     .header svg {
         margin-top:0%;
@@ -1605,7 +1605,7 @@ footer p {
     .headerinfo {
         margin-top: 7%;
         width:95%;
-        height:23%;
+
     }
 }
 
@@ -1622,6 +1622,6 @@ footer p {
     .headerinfo {
         margin-top: 7%;
         width:95%;
-        height:25%;
+
     }
 }
