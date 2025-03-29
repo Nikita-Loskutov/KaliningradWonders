@@ -420,7 +420,6 @@ footer {
     align-items:center;
     justify-content: space-around;
     margin:0 auto;
-    margin-bottom:10%;
     padding-top:3%;
     padding-bottom:3%;
     height:25%;
@@ -691,7 +690,6 @@ footer p {
         font-size: 38px;
     }
     footer {
-        margin-bottom: 0%;
         height: 25%;
         width: 100%;
     }
