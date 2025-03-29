@@ -299,7 +299,7 @@ body {
     max-width: 800px;
     height: 400px;
     margin: 0 auto;
-    display: flex;
+    display: none;
     position: relative;
     background:#3E4897;
     border-radius:90px;
